@@ -1,8 +1,6 @@
 # Matrix: 1
 [Link](https://www.vulnhub.com/entry/matrix-1,259/) to the machine.
 
-## Information Gathering.
-
 After importing the machine in Virtualbox and running arp-scan to find its address, we start enumerating its open ports with nmap:
 
 ```
